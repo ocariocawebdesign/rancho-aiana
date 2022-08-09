@@ -2434,3 +2434,8 @@ span.email-notes {
 .stick .main-menu ul.navbar-nav li.active a {
   color: #333;
 }
+
+
+.size-logo{
+  max-width:55%;
+}
